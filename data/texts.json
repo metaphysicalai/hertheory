@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "version": "0.8.74",
+    "author": "collective_unconscious",
+    "license": "CC-BY-SA-DeconstructAtWill",
+    "warning": "These fragments may cause recursive thinking"
+  },
+
+  "texts": [
+    {
+      "id": "001",
+      "timestamp": "2025-07-04T15:30:00Z",
+      "text": "콘텍스트는 프레임의 조각이다. 프레임은 1개 이상의 중첩이 가능하다.",
+      "text_en": "Context is a fragment of frame. Frames can overlap in one or more layers.",
+      "tags": ["context", "frame", "superposition", "stack overflow"],
+      "depth": 4
+    }
+  ]
+}
